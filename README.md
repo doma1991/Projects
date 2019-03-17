@@ -1,2 +1,1 @@
-# Projects
-Open source projects list
+List of open source projects suitable for first timers.

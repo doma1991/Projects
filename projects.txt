@@ -1,0 +1,10 @@
+Documents:
+
+https://github.com/firstcontributions/first-contributions/issues
+https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome
+https://github.com/swapagarwal/geeksay/issues
+
+Code: 
+
+HTML/CSS:
+https://github.com/ollelauribostrom/rebus
