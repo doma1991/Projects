@@ -1,8 +1,8 @@
 Documents:
 
-https://github.com/firstcontributions/first-contributions/issues
+https://github.com/firstcontributions/first-contributions
 https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome
-https://github.com/swapagarwal/geeksay/issues
+https://github.com/swapagarwal/geeksay
 
 Code: 
 
